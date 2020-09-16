@@ -5,10 +5,10 @@
 
 # Installation
 
-`npm i @types/node`
-`npm i -g typescript`
-`npm i discord.js`
-`npm i discord-akairo`
+`npm i @types/node`<br>
+`npm i -g typescript`<br>
+`npm i discord.js`<br>
+`npm i discord-akairo`<br>
 `npm i path`
 
 #Thanks! <br>
