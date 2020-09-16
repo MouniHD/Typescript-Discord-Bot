@@ -2,6 +2,13 @@
 
 ` A Simple Typescript Discord Bot`
 
+# Config
+
+`The Config is on src/utils/config` <br>
+<br>
+`export const token: string = "token"; <br>
+export const prefix: string = "prefix"; <br>
+export const owners: string[] = ["ownerID"]; <br>`
 
 # Installation
 
