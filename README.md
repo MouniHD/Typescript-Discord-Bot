@@ -18,5 +18,5 @@
 `npm i discord-akairo`<br>
 `npm i path`<br>
 
-#Thanks! <br>
+# Thanks!
 Dont Forget to Give Stars :3
